@@ -10,7 +10,7 @@ Recriar, com os conhecimentos adquiridos anteriormente no bootcamp, a página in
  - HTML5
  - CSS3
  - JavaScript
- - Jquery
+ - JQuery
  
  ## Implementações realizadas
   - Na barra de navegação, coloquei links que levassem o usuário para a seção da página que é de interesse.
