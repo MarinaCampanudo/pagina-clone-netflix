@@ -22,3 +22,7 @@ Recriar, com os conhecimentos adquiridos anteriormente no bootcamp, a página in
     ## Imagens do projeto
     
     
+![Tela1](https://user-images.githubusercontent.com/85065658/140940099-bd07d143-0ca0-447f-87b2-861128dd0a84.JPG)
+
+
+![tela2](https://user-images.githubusercontent.com/85065658/140940122-4869ef13-e8f7-4512-8aa8-033520c782a7.JPG)
