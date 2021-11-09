@@ -1,2 +1,0 @@
-# Página clone do Netflix
-
