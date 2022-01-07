@@ -1,6 +1,6 @@
 # Página clone do Netflix
 
-Este foi um exercício realizado no bootcamp da Digital Innovation One, para React Web Developer. 
+Este foi um exercício que realizei da Digital Innovation One. 
 
 ## Objetivo
 
